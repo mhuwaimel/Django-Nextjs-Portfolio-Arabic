@@ -31,7 +31,9 @@
 - __Create a Virtual Environment:__
 
 ```bash
- cd backend
+cd backend
+
+python -m venv venv
 
 venv\Scripts\activate
 ```
